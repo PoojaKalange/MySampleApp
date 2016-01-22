@@ -1,0 +1,7 @@
+{
+  "name": "MySampleApp",
+  "description": "REST CRUD Example Node.js & Mysql",
+   "repository": "https://github.com/PoojaKalange/MySampleApp",
+  "keywords": ["node", "express", "static"],
+
+}
